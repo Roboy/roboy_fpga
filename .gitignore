@@ -50,3 +50,18 @@ Module.symvers
 /fpga/soc_system/synthesis
 
 /software/userspace/readstate
+*.cnf.hdb
+*.tdf
+*.hlp.cdb
+*.cdb
+*.tmp
+*.qmsg
+*.hdbx
+*.hdb
+db/
+.qsys_edit
+incremental_db/
+*.qsf
+*.db_info
+*.flock
+*.rdb
