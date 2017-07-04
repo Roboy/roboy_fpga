@@ -65,3 +65,5 @@ incremental_db/
 *.db_info
 *.flock
 *.rdb
+hps_isw_handoff
+*.txt
